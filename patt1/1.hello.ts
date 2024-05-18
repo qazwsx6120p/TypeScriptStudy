@@ -1,6 +1,6 @@
 /** 聲明數字類型變數 */
-let a: number;
-a = 5;
+let aa: number;
+aa = 5;
 
 /** 只能賦值數字，否則報錯 */
 // a = true;
